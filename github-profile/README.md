@@ -55,14 +55,15 @@ I’m obsessed with how **large systems stay correct under delay, partitions, an
 
 ### GitHub pulse
 
-<!-- Stats cards: official github-readme-stats.vercel.app is often paused (503); community mirror serves the same SVG API. -->
+<!-- github-readme-stats public/mirror hosts often fail with "Maximum retries exceeded" (shared servers hit GitHub API limits). Summary-cards uses a different pipeline and tends to stay reliable. -->
 <p align="center">
-  <img height="165" src="https://readme-stats-github.vercel.app/api?username=ABHIJITBURMAN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=ABHIJITBURMAN&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ABHIJITBURMAN&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=ABHIJITBURMAN&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-github.vercel.app/api/top-langs/?username=ABHIJITBURMAN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ABHIJITBURMAN&theme=tokyonight" alt="Top languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ABHIJITBURMAN&theme=tokyonight" alt="Top languages by commit" />
 </p>
 
 <p align="center">
