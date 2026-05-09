@@ -14,6 +14,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=ABHIJITBURMAN&label=Profile%20views&color=58A6FF&style=flat)](https://github.com/ABHIJITBURMAN)
 [![GitHub followers](https://img.shields.io/github/followers/ABHIJITBURMAN?label=Followers&style=flat&color=238636&logo=github)](https://github.com/ABHIJITBURMAN?tab=followers)
 [![Public repos](https://img.shields.io/badge/Repos-32-24292f?style=flat&logo=github)](https://github.com/ABHIJITBURMAN?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijit%20Burman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-burman-100133157/)
 
 </div>
 
@@ -100,7 +101,7 @@ I’m obsessed with how **large systems stay correct under delay, partitions, an
 
 <div align="center">
 
-**If you’re into Kafka, etcd, or systems design — say hi. Issues, reviews, and rabbit-hole threads welcome.**
+**If you’re into Kafka, etcd, or systems design — say hi on [LinkedIn](https://www.linkedin.com/in/abhijit-burman-100133157/) or here on GitHub. Issues, reviews, and rabbit-hole threads welcome.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:1f6feb&height=90&section=footer&fontSize=0" alt="" width="100%" />
 
